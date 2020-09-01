@@ -1,0 +1,8 @@
+D:\Shojib\course\C#\PROJECT\toll\mytransactionList\mytransactionList\bin\Debug\mytransactionList.exe.config
+D:\Shojib\course\C#\PROJECT\toll\mytransactionList\mytransactionList\bin\Debug\mytransactionList.exe
+D:\Shojib\course\C#\PROJECT\toll\mytransactionList\mytransactionList\bin\Debug\mytransactionList.pdb
+D:\Shojib\course\C#\PROJECT\toll\mytransactionList\mytransactionList\obj\Debug\mytransactionList.myTransactionList.resources
+D:\Shojib\course\C#\PROJECT\toll\mytransactionList\mytransactionList\obj\Debug\mytransactionList.Properties.Resources.resources
+D:\Shojib\course\C#\PROJECT\toll\mytransactionList\mytransactionList\obj\Debug\mytransactionList.csproj.GenerateResource.Cache
+D:\Shojib\course\C#\PROJECT\toll\mytransactionList\mytransactionList\obj\Debug\mytransactionList.exe
+D:\Shojib\course\C#\PROJECT\toll\mytransactionList\mytransactionList\obj\Debug\mytransactionList.pdb

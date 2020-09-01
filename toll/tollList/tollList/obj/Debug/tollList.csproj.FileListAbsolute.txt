@@ -1,0 +1,8 @@
+D:\Shojib\course\C#\PROJECT\toll\tollList\tollList\bin\Debug\tollList.exe.config
+D:\Shojib\course\C#\PROJECT\toll\tollList\tollList\bin\Debug\tollList.exe
+D:\Shojib\course\C#\PROJECT\toll\tollList\tollList\bin\Debug\tollList.pdb
+D:\Shojib\course\C#\PROJECT\toll\tollList\tollList\obj\Debug\tollList.tollList.resources
+D:\Shojib\course\C#\PROJECT\toll\tollList\tollList\obj\Debug\tollList.Properties.Resources.resources
+D:\Shojib\course\C#\PROJECT\toll\tollList\tollList\obj\Debug\tollList.csproj.GenerateResource.Cache
+D:\Shojib\course\C#\PROJECT\toll\tollList\tollList\obj\Debug\tollList.exe
+D:\Shojib\course\C#\PROJECT\toll\tollList\tollList\obj\Debug\tollList.pdb

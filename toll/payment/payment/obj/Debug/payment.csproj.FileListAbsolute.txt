@@ -1,0 +1,8 @@
+D:\Shojib\course\C#\PROJECT\toll\payment\payment\bin\Debug\payment.exe.config
+D:\Shojib\course\C#\PROJECT\toll\payment\payment\obj\Debug\payment.payment.resources
+D:\Shojib\course\C#\PROJECT\toll\payment\payment\obj\Debug\payment.Properties.Resources.resources
+D:\Shojib\course\C#\PROJECT\toll\payment\payment\obj\Debug\payment.csproj.GenerateResource.Cache
+D:\Shojib\course\C#\PROJECT\toll\payment\payment\bin\Debug\payment.exe
+D:\Shojib\course\C#\PROJECT\toll\payment\payment\bin\Debug\payment.pdb
+D:\Shojib\course\C#\PROJECT\toll\payment\payment\obj\Debug\payment.exe
+D:\Shojib\course\C#\PROJECT\toll\payment\payment\obj\Debug\payment.pdb
